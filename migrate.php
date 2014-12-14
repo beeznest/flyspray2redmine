@@ -3,9 +3,10 @@
  * Main file for migration database script Flyspray to Redmine
  * @author Sergio Infante <sergio@neosergio.net>
  * @author Julio Montoya <julio.montoya@beeznest.com> several and real implementation
- * @sponsor BeezNest Latino http://www.beeznest.com
+ * @copyright BeezNest Latino http://www.beeznest.com
  * @version 2.0
  * @date 21-Jul-2009
+ * @license GNU/LGPLv3+ (check license file for details)
  */
 
 /**
